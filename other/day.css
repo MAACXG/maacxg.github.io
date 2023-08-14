@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    background-image: url('../picture/background.jpg');
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #ffff;
+    border-radius: 6px;
+}
+.entry {
+    border: 1px solid #ddd;
+    background-color: #fffc;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
